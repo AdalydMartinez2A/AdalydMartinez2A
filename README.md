@@ -7,7 +7,7 @@
 [![AfterEffects](https://img.shields.io/badge/adobe%20after%20effects-%239999FF.svg?&style=for-the-badge&logo=adobe%20after%20effects&logoColor=white&labelColor=101010)]()
 <br>
 ## Quien Soy?
-Duis accumsan purus a suscipit fermentum. Phasellus eget ultrices nibh, a aliquet nisi. Ut vitae erat non est tempor tincidunt id eu leo. Nulla blandit nibh massa, lobortis egestas est condimentum id. Donec velit velit, rutrum bibendum cursus in, accumsan non nisl. Fusce dignissim viverra ex at feugiat. Proin vestibulum egestas nibh in congue. Pellentesque varius est vitae venenatis vestibulum. Aliquam non enim malesuada libero fermentum gravida ut vel orci. Duis in libero et odio ultrices sollicitudin sit amet a augue. In auctor ullamcorper ipsum at suscipit. Donec et pharetra leo. Aliquam quis consectetur lectus, vel sagittis lectus. Nam congue lorem at iaculis vulputate.
+Soy un actual estudiante 
 <br><br>
 ### Redes Sociales
 [![Twitter Follow](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FAdalydSSJ)](https://twitter.com/AdalydSSJ)
