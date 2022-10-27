@@ -12,6 +12,6 @@ Soy un actual estudiante
 ### Redes Sociales
 [![Twitter Follow](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FAdalydSSJ)](https://twitter.com/AdalydSSJ)
 [![Twitter Follow](https://img.shields.io/twitter/url?label=ArtStation&logo=ArtStation&style=social&url=https%3A%2F%2Ftwitter.com%2FAdalydSSJ)]( https://www.artstation.com/ada_ssj)
-[![Twitter Follow](https://img.shields.io/twitter/url?label=Instagram&logo=Instagram&style=social&url=https%3A%2F%2Ftwitter.com%2FAdalydSSJ)]( https://www.artstation.com/ada_ssj)
+[![Twitter Follow](https://img.shields.io/twitter/url?label=Instagram&logo=Instagram&style=social&url=https%3A%2F%2Ftwitter.com%2FAdalydSSJ)]( https://www.instagram.com/_ada.ssj/)
 <br>
 ![ludicolo](https://cdna.artstation.com/p/assets/images/images/050/530/798/large/adalydma-renderconfirma.jpg?1655084045)
