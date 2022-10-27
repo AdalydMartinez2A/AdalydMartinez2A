@@ -1,6 +1,6 @@
 
 
-[![Imagen Banner](https://github.com/AdalydMartinez2A/AdalydMartinez2A/blob/main/source/banner_git_hub.jpg?raw=true)]()
+[![Imagen Banner](https://raw.githubusercontent.com/AdalydMartinez2A/AdalydMartinez2A/main/Resources/banner_githhub.jpg)]()
 ## Plutarco Adalyd Martinez Torres || Game Designer
 [![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white&labelColor=101010)]()
 [![AutoDesk](https://img.shields.io/badge/autodesk-%230696D7.svg?&style=for-the-badge&logo=autodesk&logoColor=white&labelColor=101010)]()
