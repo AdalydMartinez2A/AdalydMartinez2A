@@ -1,7 +1,7 @@
 
 
 [![Imagen Banner](https://github.com/AdalydMartinez2A/AdalydMartinez2A/blob/main/banner_git_hub.jpg?raw=true)]()
-## Plutarco Adalyd Martinez || Game Designer
+## Plutarco Adalyd Martinez Torres || Game Designer
 [![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white&labelColor=101010)]()
 [![AutoDesk](https://img.shields.io/badge/autodesk-%230696D7.svg?&style=for-the-badge&logo=autodesk&logoColor=white&labelColor=101010)]()
 [![AfterEffects](https://img.shields.io/badge/adobe%20after%20effects-%239999FF.svg?&style=for-the-badge&logo=adobe%20after%20effects&logoColor=white&labelColor=101010)]()
