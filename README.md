@@ -7,7 +7,7 @@
 [![AfterEffects](https://img.shields.io/badge/adobe%20after%20effects-%239999FF.svg?&style=for-the-badge&logo=adobe%20after%20effects&logoColor=white&labelColor=101010)]()
 <br>
 ## Who i am?
-I am a CEV student. And my biggest aspiration is to become a GameDesigner, so I'm doing my own ninja way to achieve it.
+I am a CEV student. And my biggest aspiration is to become a GameDesigner, so I'm doing my own ninja way to achieve it. I also like modeling in zbrush and I'm trying to learn After Effects.
 <br><br>
 ### Social Media
 [![Twitter Follow](https://img.shields.io/twitter/url?label=Twitter&style=social&url=https%3A%2F%2Ftwitter.com%2FAdalydSSJ)](https://twitter.com/AdalydSSJ)
