@@ -1,6 +1,6 @@
 
 
-[![Imagen Banner](https://www.uspress.com/app_themes/us-press-e2/assets/images/pages/8x3-banner-template.png)]()
+[![Imagen Banner](https://github.com/AdalydMartinez2A/AdalydMartinez2A/blob/main/banner_git_hub.jpg?raw=true)]()
 ## Plutarco Adalyd Martinez || Game Designer
 [![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=white&labelColor=101010)]()
 [![AutoDesk](https://img.shields.io/badge/autodesk-%230696D7.svg?&style=for-the-badge&logo=autodesk&logoColor=white&labelColor=101010)]()
